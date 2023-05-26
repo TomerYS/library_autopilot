@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
@@ -22,8 +23,12 @@ LOGIN_URL = "https://schedule.tau.ac.il/scilib/Web/index.php?redirect="
 # Setup webdriver with required options
 def setup_driver():
     options = webdriver.ChromeOptions()
+    options.add_argument('--disable-gpu')
+    options.add_argument('--disable-extensions')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
+    # remove after finished debugging
+    #options.add_argument('--headless')  # allow the browser to run in the background
     return webdriver.Chrome(service=CHROME_PATH, options=options)
 
 # Function to login to the scheduling system
