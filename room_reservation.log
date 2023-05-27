@@ -1,0 +1,2216 @@
+2023-05-27 17:48:56,843 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:48:59,687 - INFO - Error occurred: name 'username' is not defined
+2023-05-27 17:49:54,506 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:49:55,733 - INFO - Reserving room...
+2023-05-27 17:49:56,436 - INFO - Navigated to login page.
+2023-05-27 17:49:56,490 - ERROR - Error occurred when logging in: object of type 'NoneType' has no len()
+2023-05-27 17:50:03,306 - INFO - Error occurred when reserving room 29: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,310 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,314 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,318 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,321 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,325 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,328 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,332 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,337 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:03,341 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:07,823 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:50:09,021 - INFO - Reserving room...
+2023-05-27 17:50:09,662 - INFO - Navigated to login page.
+2023-05-27 17:50:09,719 - ERROR - Error occurred when logging in: object of type 'NoneType' has no len()
+2023-05-27 17:50:20,074 - INFO - Error occurred when reserving room 29: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,905 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,909 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,913 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,916 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,920 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,924 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,928 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,932 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:50:27,935 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:27,566 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:53:28,805 - INFO - Reserving room...
+2023-05-27 17:53:29,399 - INFO - Navigated to login page.
+2023-05-27 17:53:37,974 - INFO - Clicked login button.
+2023-05-27 17:53:40,676 - INFO - Error occurred when reserving room 29: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,679 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,683 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,688 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,693 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,696 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,701 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,705 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,708 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:53:40,710 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:19,626 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:54:20,832 - INFO - Reserving room...
+2023-05-27 17:54:22,564 - INFO - Navigated to login page.
+2023-05-27 17:54:31,102 - INFO - Clicked login button.
+2023-05-27 17:54:34,822 - INFO - Error occurred when reserving room 29: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,830 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,836 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,840 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,845 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,848 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,855 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,859 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,865 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:54:34,869 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:03,888 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:56:05,121 - INFO - Reserving room...
+2023-05-27 17:56:05,744 - INFO - Navigated to login page.
+2023-05-27 17:56:14,376 - INFO - Clicked login button.
+2023-05-27 17:56:24,849 - INFO - Error occurred when reserving room 29: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,172 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,177 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,181 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,184 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,187 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,190 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,195 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,199 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:56:29,203 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:39,289 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:57:40,656 - INFO - Reserving room...
+2023-05-27 17:57:41,550 - INFO - Navigated to login page.
+2023-05-27 17:57:51,120 - INFO - Clicked login button.
+2023-05-27 17:57:51,750 - INFO - Error occurred when reserving room 29: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,754 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,759 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,763 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,767 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,772 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,781 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,792 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,824 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:57:51,829 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:18,057 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 17:58:19,279 - INFO - Reserving room...
+2023-05-27 17:58:19,904 - INFO - Navigated to login page.
+2023-05-27 17:58:29,553 - INFO - Clicked login button.
+2023-05-27 17:58:49,558 - INFO - Error occurred when reserving room 29: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,567 - INFO - Error occurred when reserving room 128: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,572 - INFO - Error occurred when reserving room 126: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,576 - INFO - Error occurred when reserving room 125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,581 - INFO - Error occurred when reserving room 127: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,585 - INFO - Error occurred when reserving room 28: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,590 - INFO - Error occurred when reserving room 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,593 - INFO - Error occurred when reserving room 25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,597 - INFO - Error occurred when reserving room 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 17:58:49,601 - INFO - Error occurred when reserving room 26: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:23,878 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 18:10:25,111 - INFO - Reserving room...
+2023-05-27 18:10:25,713 - INFO - Navigated to login page.
+2023-05-27 18:10:26,659 - INFO - Clicked login button.
+2023-05-27 18:10:29,427 - INFO - Error occurred when reserving room 29: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:31,757 - INFO - Error occurred when reserving room 128: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:34,069 - INFO - Error occurred when reserving room 126: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:36,379 - INFO - Error occurred when reserving room 125: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:38,683 - INFO - Error occurred when reserving room 127: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:40,969 - INFO - Error occurred when reserving room 28: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:43,274 - INFO - Error occurred when reserving room 24: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:45,640 - INFO - Error occurred when reserving room 25: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:47,932 - INFO - Error occurred when reserving room 23: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:10:50,237 - INFO - Error occurred when reserving room 26: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:20:17,153 - INFO - Next job scheduled at: 2023-05-29 12:57:00
+2023-05-27 18:23:40,257 - INFO - Next job scheduled at: 2023-05-29 12:57:00
+2023-05-27 18:24:25,439 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 18:24:26,690 - INFO - Reserving room...
+2023-05-27 18:24:27,742 - INFO - Navigated to login page.
+2023-05-27 18:25:21,902 - ERROR - Error occurred when logging in: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:25:21,905 - INFO - Waiting 2079.0 seconds until the next round hour.
+2023-05-27 18:26:02,339 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 18:26:03,634 - INFO - Reserving room...
+2023-05-27 18:26:04,229 - INFO - Navigated to login page.
+2023-05-27 18:26:18,524 - ERROR - Error occurred when logging in: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x002ED073]
+	(No symbol) [0x0034DEBB]
+	(No symbol) [0x0035BFD3]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:26:18,531 - INFO - Waiting 2022.0 seconds until the next round hour.
+2023-05-27 18:27:11,710 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-27 18:27:12,918 - INFO - Reserving room...
+2023-05-27 18:27:13,513 - INFO - Navigated to login page.
+2023-05-27 18:27:32,277 - ERROR - Error occurred when logging in: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00468893+48451]
+	(No symbol) [0x003FB8A1]
+	(No symbol) [0x00305058]
+	(No symbol) [0x00330467]
+	(No symbol) [0x0033069B]
+	(No symbol) [0x0035DD92]
+	(No symbol) [0x0034A304]
+	(No symbol) [0x0035C482]
+	(No symbol) [0x0034A0B6]
+	(No symbol) [0x00327E08]
+	(No symbol) [0x00328F2D]
+	GetHandleVerifier [0x006C8E3A+2540266]
+	GetHandleVerifier [0x00708959+2801161]
+	GetHandleVerifier [0x0070295C+2776588]
+	GetHandleVerifier [0x004F2280+612144]
+	(No symbol) [0x00404F6C]
+	(No symbol) [0x004011D8]
+	(No symbol) [0x004012BB]
+	(No symbol) [0x003F4857]
+	BaseThreadInitThunk [0x76F17D59+25]
+	RtlInitializeExceptionChain [0x77D9B74B+107]
+	RtlClearBits [0x77D9B6CF+191]
+
+2023-05-27 18:27:34,443 - INFO - Waiting 1946.0 seconds until the next round hour.

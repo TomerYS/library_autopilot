@@ -16,6 +16,7 @@ import os
 log_format = '%(asctime)s - %(levelname)s - %(message)s'
 logging.basicConfig(level=logging.INFO, format=log_format, handlers=[logging.FileHandler('room_reservation.log'), logging.StreamHandler()])
 
+WAITING_PERIOD = 10
 CHROME_PATH = "/usr/bin/chromedriver"
 LOGIN_URL = "https://schedule.tau.ac.il/scilib/Web/index.php?redirect="
 
@@ -23,31 +24,30 @@ def setup_driver():
     options = ChromeOptions()
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--headless')  # Add this line to run the browser in headless mode
+    # options.add_argument('--headless')  # Add this line to run the browser in headless mode
     return webdriver.Chrome(executable_path=CHROME_PATH, options=options)
-
 
 # Function to login to the scheduling system
 def login(driver, username, password):
     driver.get(LOGIN_URL)
-    logging.info("Navigated to login page.")
     try:
-        username_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'email')))
-        password_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'password')))
+        username_input = WebDriverWait(driver, WAITING_PERIOD).until(EC.presence_of_element_located((By.ID, 'email')))
+        password_input = WebDriverWait(driver, WAITING_PERIOD).until(EC.presence_of_element_located((By.ID, 'password')))
         username_input.send_keys(username)
         password_input.send_keys(password)
-        login_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login-box"]/div[4]/button')))
+        login_button = WebDriverWait(driver, WAITING_PERIOD).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login-box"]/div[4]/button')))
         login_button.click()
-        logging.info("Clicked login button.")
+        WebDriverWait(driver, WAITING_PERIOD).until(EC.presence_of_element_located((By.ID, 'navSignOut')))
+        logging.info("Logged in successfully.")
     except Exception as e:
-        logging.error(f"Error occurred when logging in: {str(e)}")
+        logging.error(f"Error occurred when logging in:\n {str(e)}")
+        raise e
 
 # Function to wait until the next hour
 def wait_next_hour():
     now = datetime.now()
     next_hour = now.replace(minute=0, second=0) + timedelta(hours=1)
     wait_seconds = (next_hour - now).total_seconds()
-    
     logging.info(f"Waiting {wait_seconds} seconds until the next round hour.")
     time.sleep(wait_seconds)
 
@@ -92,7 +92,7 @@ def reserve_room(driver, username, password, room=None):
                 logging.info(f"Room {room} is available.")
                 return room, reference_number
         except Exception as e:
-            logging.info(f"Error occurred when reserving room {room}: {str(e)}")
+            logging.info(f"Error occurred when reserving room {room}: \n{str(e)}")
 
     # If no room could be reserved, return None, None
     return None, None
@@ -127,18 +127,16 @@ def update_reservation(driver, username, password, room, reference_number):
             logging.info(f"room {room} was updated.")
             return room, reference_number
     except Exception as e:
-        logging.info(f"Error occurred when updating room {room}: {str(e)}")
+        logging.info(f"Error occurred when updating room {room}: \n{str(e)}")
     finally:
         driver.quit()
 
     return None, None
 
 # Function to run as scheduled job
-def job():
-    global successfull_room, reference_number, username, password
-
+def job(username, password):
+    logging.info("Starting job...")
     driver = setup_driver()
-
     try:
         # Reserve room for 1st hour
         successfull_room, reference_number = reserve_room(driver, username, password)
@@ -152,8 +150,13 @@ def job():
         # If update was successful, update to add 3rd hour
         if successfull_room is not None:
             successfull_room, reference_number = update_reservation(driver, username, password, successfull_room, reference_number)
+        print(f"wainting until {schedule.next_run()}")
+
     except Exception as e:
-        logging.info(f"Error occurred: {str(e)}")
+        logging.info(f"Error occurred: \n{str(e)}")
+
+    finally:
+        logging.info(f"Job completed. Next job scheduled at: {schedule.next_run()}")
 
 # Schedule jobs
 schedule.every().monday.at("12:57").do(job)
@@ -162,13 +165,12 @@ schedule.every().wednesday.at("11:57").do(job)
 schedule.every().thursday.at("11:57").do(job)
 
 def main():
-    username = os.environ.get('USERNAME')  # Read username from environment variable
-    password = os.environ.get('PASSWORD')  # Read password from environment variable
-    successfull_room, reference_number = None, None
+    username = os.environ.get('ROOM_RESERVATION_USERNAME')  # Read username from environment variable
+    password = os.environ.get('ROOM_RESERVATION_PASSWORD')  # Read password from environment variable
+    logging.info(f"Next job scheduled at: {schedule.next_run()}")
     while True:
         schedule.run_pending()
         time.sleep(1)
-
 
 if __name__ == "__main__":
     main()
