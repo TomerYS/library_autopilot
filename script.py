@@ -16,36 +16,28 @@ import os
 log_format = '%(asctime)s - %(levelname)s - %(message)s'
 logging.basicConfig(level=logging.INFO, format=log_format, handlers=[logging.FileHandler('room_reservation.log'), logging.StreamHandler()])
 
-# Configure Selenium with ChromeDriver
-CHROME_PATH = Service(ChromeDriverManager().install())
+CHROME_PATH = "/usr/bin/chromedriver"
 LOGIN_URL = "https://schedule.tau.ac.il/scilib/Web/index.php?redirect="
 
-# Setup webdriver with required options
 def setup_driver():
-    options = webdriver.ChromeOptions()
-    options.add_argument('--disable-gpu')
-    options.add_argument('--disable-extensions')
+    options = ChromeOptions()
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
-    # remove after finished debugging
-    #options.add_argument('--headless')  # allow the browser to run in the background
-    return webdriver.Chrome(service=CHROME_PATH, options=options)
+    options.add_argument('--headless')  # Add this line to run the browser in headless mode
+    return webdriver.Chrome(executable_path=CHROME_PATH, options=options)
+
 
 # Function to login to the scheduling system
 def login(driver, username, password):
     driver.get(LOGIN_URL)
     logging.info("Navigated to login page.")
-    
     try:
-        # Fill in login form and submit
         username_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'email')))
         password_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'password')))
         username_input.send_keys(username)
         password_input.send_keys(password)
-
         login_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login-box"]/div[4]/button')))
         login_button.click()
-
         logging.info("Clicked login button.")
     except Exception as e:
         logging.error(f"Error occurred when logging in: {str(e)}")
@@ -169,15 +161,14 @@ schedule.every().tuesday.at("10:57").do(job)
 schedule.every().wednesday.at("11:57").do(job)
 schedule.every().thursday.at("11:57").do(job)
 
-
-if __name__ == "__main__":
-    # Username and password stored in environment variables for security
-    username = os.getenv('ROOM_RESERVATION_USERNAME')
-    password = os.getenv('ROOM_RESERVATION_PASSWORD')
-
+def main():
+    username = os.environ.get('USERNAME')  # Read username from environment variable
+    password = os.environ.get('PASSWORD')  # Read password from environment variable
     successfull_room, reference_number = None, None
-
-    # Run scheduled jobs
     while True:
         schedule.run_pending()
         time.sleep(1)
+
+
+if __name__ == "__main__":
+    main()
