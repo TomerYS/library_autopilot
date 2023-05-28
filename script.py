@@ -208,7 +208,7 @@ def schedule_and_run_jobs():
     """Main function to schedule and run the job"""
     username = os.environ.get('ROOM_RESERVATION_USERNAME')  # Read username from environment variable
     password = os.environ.get('ROOM_RESERVATION_PASSWORD')  # Read password from environment variable
-    schedule.every().sunday.at("18:07").do(run_scheduled_job, username, password)
+    schedule.every().monday.at("12:58").do(run_scheduled_job, username, password)
     logging.info(f"Next job scheduled at: {schedule.next_run()}")
     while True:
         schedule.run_pending()
