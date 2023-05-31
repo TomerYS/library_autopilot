@@ -3237,3 +3237,533 @@ HTTPConnectionPool(host='localhost', port=64208): Max retries exceeded with url:
  
 
 2023-05-28 20:00:18,181 - INFO - Job completed. Next job scheduled at: 2023-05-28 18:07:00
+2023-05-28 20:23:19,249 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 22:50:50,725 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 22:52:31,991 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 23:03:36,544 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 23:03:36,544 - INFO - Sleeping for 50063.455986 seconds...
+2023-05-28 23:06:00,708 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 23:07:03,112 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-28 23:07:03,112 - INFO - Sleeping for 49856.887701 seconds...
+2023-05-29 09:02:26,682 - INFO - Next job scheduled at: 2023-05-29 09:58:00
+2023-05-29 09:02:26,682 - INFO - Sleeping for 3333.317393 seconds...
+2023-05-29 09:58:00,022 - INFO - Starting job...
+2023-05-29 09:58:00,036 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 09:58:01,835 - INFO - Waiting 120.0 seconds until the next round hour.
+2023-05-29 10:00:01,835 - INFO - Reserving room...
+2023-05-29 10:00:06,039 - INFO - Successfully logged in.
+2023-05-29 10:00:07,647 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=29&sid=3&rd=2023-06-05&sd=2023-06-05%2019%3A00%3A00&ed=2023-06-05%2020%3A00%3A00
+2023-05-29 10:00:07,734 - INFO - Time menu located.
+2023-05-29 10:00:08,373 - INFO - create button located.
+2023-05-29 10:00:09,963 - INFO - Room 29 is available. refetence number:Your reference number is 64744d77bd1c4881202716.
+2023-05-29 10:00:12,012 - INFO - Waiting 3589.0 seconds until the next round hour.
+2023-05-29 11:00:01,013 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 11:00:02,758 - INFO - Updating reservation...
+2023-05-29 11:00:07,262 - INFO - Successfully logged in.
+2023-05-29 11:00:08,774 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=Your%20reference%20number%20is%2064744d77bd1c4881202716
+2023-05-29 11:00:18,996 - ERROR - Error occurred when updating room 29: 
+ 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00678893+48451]
+	(No symbol) [0x0060B8A1]
+	(No symbol) [0x00515058]
+	(No symbol) [0x00540467]
+	(No symbol) [0x0054069B]
+	(No symbol) [0x0056DD92]
+	(No symbol) [0x0055A304]
+	(No symbol) [0x0056C482]
+	(No symbol) [0x0055A0B6]
+	(No symbol) [0x00537E08]
+	(No symbol) [0x00538F2D]
+	GetHandleVerifier [0x008D8E3A+2540266]
+	GetHandleVerifier [0x00918959+2801161]
+	GetHandleVerifier [0x0091295C+2776588]
+	GetHandleVerifier [0x00702280+612144]
+	(No symbol) [0x00614F6C]
+	(No symbol) [0x006111D8]
+	(No symbol) [0x006112BB]
+	(No symbol) [0x00604857]
+	BaseThreadInitThunk [0x76887D59+25]
+	RtlInitializeExceptionChain [0x77CDB74B+107]
+	RtlClearBits [0x77CDB6CF+191]
+ 
+ 
+
+2023-05-29 11:00:25,077 - INFO - Job completed. Next job scheduled at: 2023-05-29 09:58:00
+2023-05-29 11:00:29,108 - INFO - Sleeping for 601050.891529 seconds...
+2023-05-29 12:49:41,294 - INFO - Next job scheduled at: 2023-05-29 12:58:00
+2023-05-29 12:49:41,294 - INFO - Sleeping for 498.705672 seconds...
+2023-05-29 12:58:00,001 - INFO - Starting job...
+2023-05-29 12:58:00,003 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 12:58:01,698 - INFO - Waiting 120.0 seconds until the next round hour.
+2023-05-29 13:00:01,700 - INFO - Reserving room...
+2023-05-29 13:00:06,136 - INFO - Successfully logged in.
+2023-05-29 13:00:07,483 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=29&sid=3&rd=2023-06-05&sd=2023-06-05%2019%3A00%3A00&ed=2023-06-05%2020%3A00%3A00
+2023-05-29 13:00:07,523 - INFO - Time menu located.
+2023-05-29 13:00:08,108 - INFO - create button located.
+2023-05-29 13:00:09,666 - INFO - Error occurred when reserving room 29. Trying next room...
+ 
+ Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: headless chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00678893+48451]
+	(No symbol) [0x0060B8A1]
+	(No symbol) [0x00515058]
+	(No symbol) [0x00540467]
+	(No symbol) [0x0054069B]
+	(No symbol) [0x0056DD92]
+	(No symbol) [0x0055A304]
+	(No symbol) [0x0056C482]
+	(No symbol) [0x0055A0B6]
+	(No symbol) [0x00537E08]
+	(No symbol) [0x00538F2D]
+	GetHandleVerifier [0x008D8E3A+2540266]
+	GetHandleVerifier [0x00918959+2801161]
+	GetHandleVerifier [0x0091295C+2776588]
+	GetHandleVerifier [0x00702280+612144]
+	(No symbol) [0x00614F6C]
+	(No symbol) [0x006111D8]
+	(No symbol) [0x006112BB]
+	(No symbol) [0x00604857]
+	BaseThreadInitThunk [0x76887D59+25]
+	RtlInitializeExceptionChain [0x77CDB74B+107]
+	RtlClearBits [0x77CDB6CF+191]
+ 
+ 
+
+2023-05-29 13:00:10,928 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=128&sid=3&rd=2023-06-05&sd=2023-06-05%2019%3A00%3A00&ed=2023-06-05%2020%3A00%3A00
+2023-05-29 13:00:10,989 - INFO - Time menu located.
+2023-05-29 13:00:11,619 - INFO - create button located.
+2023-05-29 13:00:13,177 - INFO - Error occurred when reserving room 128. Trying next room...
+ 
+ Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: headless chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00678893+48451]
+	(No symbol) [0x0060B8A1]
+	(No symbol) [0x00515058]
+	(No symbol) [0x00540467]
+	(No symbol) [0x0054069B]
+	(No symbol) [0x0056DD92]
+	(No symbol) [0x0055A304]
+	(No symbol) [0x0056C482]
+	(No symbol) [0x0055A0B6]
+	(No symbol) [0x00537E08]
+	(No symbol) [0x00538F2D]
+	GetHandleVerifier [0x008D8E3A+2540266]
+	GetHandleVerifier [0x00918959+2801161]
+	GetHandleVerifier [0x0091295C+2776588]
+	GetHandleVerifier [0x00702280+612144]
+	(No symbol) [0x00614F6C]
+	(No symbol) [0x006111D8]
+	(No symbol) [0x006112BB]
+	(No symbol) [0x00604857]
+	BaseThreadInitThunk [0x76887D59+25]
+	RtlInitializeExceptionChain [0x77CDB74B+107]
+	RtlClearBits [0x77CDB6CF+191]
+ 
+ 
+
+2023-05-29 13:00:14,588 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=126&sid=3&rd=2023-06-05&sd=2023-06-05%2019%3A00%3A00&ed=2023-06-05%2020%3A00%3A00
+2023-05-29 13:00:14,627 - INFO - Time menu located.
+2023-05-29 13:00:15,269 - INFO - create button located.
+2023-05-29 13:00:16,830 - INFO - Error occurred when reserving room 126. Trying next room...
+ 
+ Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="reference-number"]"}
+  (Session info: headless chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00678893+48451]
+	(No symbol) [0x0060B8A1]
+	(No symbol) [0x00515058]
+	(No symbol) [0x00540467]
+	(No symbol) [0x0054069B]
+	(No symbol) [0x0056DD92]
+	(No symbol) [0x0055A304]
+	(No symbol) [0x0056C482]
+	(No symbol) [0x0055A0B6]
+	(No symbol) [0x00537E08]
+	(No symbol) [0x00538F2D]
+	GetHandleVerifier [0x008D8E3A+2540266]
+	GetHandleVerifier [0x00918959+2801161]
+	GetHandleVerifier [0x0091295C+2776588]
+	GetHandleVerifier [0x00702280+612144]
+	(No symbol) [0x00614F6C]
+	(No symbol) [0x006111D8]
+	(No symbol) [0x006112BB]
+	(No symbol) [0x00604857]
+	BaseThreadInitThunk [0x76887D59+25]
+	RtlInitializeExceptionChain [0x77CDB74B+107]
+	RtlClearBits [0x77CDB6CF+191]
+ 
+ 
+
+2023-05-29 13:00:18,080 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=125&sid=3&rd=2023-06-05&sd=2023-06-05%2019%3A00%3A00&ed=2023-06-05%2020%3A00%3A00
+2023-05-29 13:00:18,127 - INFO - Time menu located.
+2023-05-29 13:00:18,706 - INFO - create button located.
+2023-05-29 13:00:20,303 - INFO - Room 125 is available. refetence number:Your reference number is 647477b218022841844216.
+2023-05-29 13:00:22,371 - INFO - Waiting 3478.0 seconds until the next round hour.
+2023-05-29 13:58:20,375 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 13:58:21,547 - INFO - Updating reservation...
+2023-05-29 13:58:27,016 - INFO - Successfully logged in.
+2023-05-29 13:58:27,017 - INFO - Waiting 94.0 seconds until the next round hour.
+2023-05-29 14:00:01,202 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=Your%20reference%20number%20is%20647477b218022841844216
+2023-05-29 14:00:11,537 - ERROR - Error occurred when updating room 125: 
+ 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00678893+48451]
+	(No symbol) [0x0060B8A1]
+	(No symbol) [0x00515058]
+	(No symbol) [0x00540467]
+	(No symbol) [0x0054069B]
+	(No symbol) [0x0056DD92]
+	(No symbol) [0x0055A304]
+	(No symbol) [0x0056C482]
+	(No symbol) [0x0055A0B6]
+	(No symbol) [0x00537E08]
+	(No symbol) [0x00538F2D]
+	GetHandleVerifier [0x008D8E3A+2540266]
+	GetHandleVerifier [0x00918959+2801161]
+	GetHandleVerifier [0x0091295C+2776588]
+	GetHandleVerifier [0x00702280+612144]
+	(No symbol) [0x00614F6C]
+	(No symbol) [0x006111D8]
+	(No symbol) [0x006112BB]
+	(No symbol) [0x00604857]
+	BaseThreadInitThunk [0x76887D59+25]
+	RtlInitializeExceptionChain [0x77CDB74B+107]
+	RtlClearBits [0x77CDB6CF+191]
+ 
+ 
+
+2023-05-29 14:00:17,655 - INFO - Job completed. Next job scheduled at: 2023-05-29 12:58:00
+2023-05-29 14:00:21,723 - INFO - Sleeping for 601058.276998 seconds...
+2023-05-31 15:07:41,972 - INFO - Next job scheduled at: 2023-05-31 15:58:00
+2023-05-31 15:07:41,972 - INFO - Sleeping for 3018.027036 seconds...
+2023-05-31 15:58:00,003 - INFO - Starting job...
+2023-05-31 15:58:00,003 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 15:58:02,649 - INFO - Waiting 119.0 seconds until the next round hour.
+2023-05-31 16:00:01,652 - INFO - Reserving room...
+2023-05-31 16:00:06,678 - INFO - Successfully logged in.
+2023-05-31 16:00:08,509 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rid=29&sid=3&rd=2023-06-07&sd=2023-06-07%2019%3A00%3A00&ed=2023-06-07%2020%3A00%3A00
+2023-05-31 16:00:08,581 - INFO - Time menu located.
+2023-05-31 16:00:09,249 - INFO - create button located.
+2023-05-31 16:00:10,852 - INFO - Room 29 is available. refetence number:Your reference number is 647744d8ce4f6394698804.
+2023-05-31 16:00:12,911 - INFO - Waiting 3488.0 seconds until the next round hour.
+2023-05-31 16:58:20,917 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 16:58:22,210 - INFO - Updating reservation...
+2023-05-31 16:58:22,772 - ERROR - Error occurred: 
+ 
+Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: headless chrome=113.0.5672.127)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x01168893+48451]
+	(No symbol) [0x010FB8A1]
+	(No symbol) [0x01005058]
+	(No symbol) [0x01001843]
+	(No symbol) [0x00FF8AC5]
+	(No symbol) [0x00FF9B2A]
+	(No symbol) [0x00FF8E23]
+	(No symbol) [0x00FF8175]
+	(No symbol) [0x00FF810C]
+	(No symbol) [0x00FF6D46]
+	(No symbol) [0x00FF74A8]
+	(No symbol) [0x010067F2]
+	(No symbol) [0x0105CA61]
+	(No symbol) [0x0104A2BC]
+	(No symbol) [0x0105C482]
+	(No symbol) [0x0104A0B6]
+	(No symbol) [0x01027E08]
+	(No symbol) [0x01028F2D]
+	GetHandleVerifier [0x013C8E3A+2540266]
+	GetHandleVerifier [0x01408959+2801161]
+	GetHandleVerifier [0x0140295C+2776588]
+	GetHandleVerifier [0x011F2280+612144]
+	(No symbol) [0x01104F6C]
+	(No symbol) [0x011011D8]
+	(No symbol) [0x011012BB]
+	(No symbol) [0x010F4857]
+	BaseThreadInitThunk [0x76F87D59+25]
+	RtlInitializeExceptionChain [0x7713B74B+107]
+	RtlClearBits [0x7713B6CF+191]
+ 
+ 
+
+2023-05-31 16:58:24,804 - INFO - Job completed. Next job scheduled at: 2023-05-31 15:58:00
+2023-05-31 16:58:28,839 - INFO - Sleeping for 601171.160838 seconds...
+2023-05-31 21:12:35,625 - INFO - Next job scheduled at: None
+2023-05-31 21:12:35,625 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 21:12:36,965 - INFO - Updating reservation...
+2023-05-31 21:12:41,198 - INFO - Successfully logged in.
+2023-05-31 21:12:41,891 - INFO - current url: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804
+2023-05-31 21:12:42,222 - INFO - Time menu located.
+2023-05-31 21:12:53,332 - ERROR - Error occurred when updating room 29: 
+ 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x01168893+48451]
+	(No symbol) [0x010FB8A1]
+	(No symbol) [0x01005058]
+	(No symbol) [0x01030467]
+	(No symbol) [0x0103069B]
+	(No symbol) [0x0105DD92]
+	(No symbol) [0x0104A304]
+	(No symbol) [0x0105C482]
+	(No symbol) [0x0104A0B6]
+	(No symbol) [0x01027E08]
+	(No symbol) [0x01028F2D]
+	GetHandleVerifier [0x013C8E3A+2540266]
+	GetHandleVerifier [0x01408959+2801161]
+	GetHandleVerifier [0x0140295C+2776588]
+	GetHandleVerifier [0x011F2280+612144]
+	(No symbol) [0x01104F6C]
+	(No symbol) [0x011011D8]
+	(No symbol) [0x011012BB]
+	(No symbol) [0x010F4857]
+	BaseThreadInitThunk [0x76F87D59+25]
+	RtlInitializeExceptionChain [0x7713B74B+107]
+	RtlClearBits [0x7713B6CF+191]
+ 
+ 
+
+2023-05-31 21:33:05,398 - INFO - Wait for the next hour - 100 seconds.
+2023-05-31 21:33:05,399 - INFO - Initialize WebDriver.
+2023-05-31 21:33:05,400 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 21:33:06,756 - INFO - WebDriver initialized.
+2023-05-31 21:33:06,757 - INFO - Authenticate user.
+2023-05-31 21:33:11,084 - INFO - Successfully logged in.
+2023-05-31 21:33:11,085 - INFO - User authenticated.
+2023-05-31 21:33:11,085 - INFO - Wait for the next hour.
+2023-05-31 21:33:11,085 - INFO - Desired hour: 21:00.
+2023-05-31 21:33:11,086 - INFO - Navigate to reservation page: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804.
+2023-05-31 21:33:11,778 - INFO - Navigated to reservation page. Current URL: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804
+2023-05-31 21:33:11,779 - INFO - Check the current ending time of the reservation.
+2023-05-31 21:33:11,811 - INFO - Current end time:                                                                                                                                                                                                                 09:00
+                                                                                                                                                                                                                                                        10:00
+                                                                                                                                                                                                                                                        11:00
+                                                                                                                                                                                                                                                        12:00
+                                                                                                                                                                                                                                                        13:00
+                                                                                                                                                                                                                                                        14:00
+                                                                                                                                                                                                                                                        15:00
+                                                                                                                                                                                                                                                                                                                                                                                                    16:00
+                                                                                                                                                                                                                                                        17:00
+                                                                                                                                                                                                                                                        18:00
+                                                                                                                                                                                                                                                        19:00
+                                                                                                                                                                                                                                                        20:00
+                                                                                                                                                                                                                                                        21:00
+                                                                            
+                                .
+2023-05-31 21:33:11,814 - INFO - Locate time menu.
+2023-05-31 21:33:11,826 - INFO - Time menu located.
+2023-05-31 21:33:11,894 - INFO - Locate and click desired ending time.
+2023-05-31 21:33:11,954 - INFO - Locate update button.
+2023-05-31 21:33:22,318 - ERROR - Error occurred while updating reservation. Stacktrace:
+2023-05-31 21:33:22,325 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 179, in update_reservation
+    update_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'btnCreate')))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\support\wait.py", line 95, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x01168893+48451]
+	(No symbol) [0x010FB8A1]
+	(No symbol) [0x01005058]
+	(No symbol) [0x01030467]
+	(No symbol) [0x0103069B]
+	(No symbol) [0x0105DD92]
+	(No symbol) [0x0104A304]
+	(No symbol) [0x0105C482]
+	(No symbol) [0x0104A0B6]
+	(No symbol) [0x01027E08]
+	(No symbol) [0x01028F2D]
+	GetHandleVerifier [0x013C8E3A+2540266]
+	GetHandleVerifier [0x01408959+2801161]
+	GetHandleVerifier [0x0140295C+2776588]
+	GetHandleVerifier [0x011F2280+612144]
+	(No symbol) [0x01104F6C]
+	(No symbol) [0x011011D8]
+	(No symbol) [0x011012BB]
+	(No symbol) [0x010F4857]
+	BaseThreadInitThunk [0x76F87D59+25]
+	RtlInitializeExceptionChain [0x7713B74B+107]
+	RtlClearBits [0x7713B6CF+191]
+
+
+2023-05-31 21:33:22,331 - INFO - Quit driver.
+2023-05-31 21:33:28,423 - INFO - Next job scheduled at: None
+2023-05-31 21:33:28,424 - ERROR - Unhandled exception occurred. Stacktrace:
+2023-05-31 21:33:28,425 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 247, in <module>
+    schedule_and_run_jobs()
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 239, in schedule_and_run_jobs
+    sleep_duration = get_seconds_until_next_job()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 229, in get_seconds_until_next_job
+    return (schedule.next_run() - datetime.now()).total_seconds()
+            ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'datetime.datetime'
+
+2023-05-31 21:38:30,449 - INFO - Wait for the next hour - 100 seconds.
+2023-05-31 21:38:30,449 - INFO - Initialize WebDriver.
+2023-05-31 21:38:30,449 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 21:38:31,731 - INFO - WebDriver initialized.
+2023-05-31 21:38:31,732 - INFO - Authenticate user.
+2023-05-31 21:38:33,191 - INFO - Successfully logged in.
+2023-05-31 21:38:33,191 - INFO - User authenticated.
+2023-05-31 21:38:33,191 - INFO - Wait for the next hour.
+2023-05-31 21:38:33,193 - INFO - Desired hour: 21:00.
+2023-05-31 21:38:33,193 - INFO - Navigate to reservation page: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804.
+2023-05-31 21:38:33,784 - INFO - Navigated to reservation page. Current URL: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804
+2023-05-31 21:38:33,785 - INFO - Check the current ending time of the reservation.
+2023-05-31 21:38:33,820 - INFO - Current end time:                                                                                                                                                                                                                 09:00
+                                                                                                                                                                                                                                                        10:00
+                                                                                                                                                                                                                                                        11:00
+                                                                                                                                                                                                                                                        12:00
+                                                                                                                                                                                                                                                        13:00
+                                                                                                                                                                                                                                                        14:00
+                                                                                                                                                                                                                                                        15:00
+                                                                                                                                                                                                                                                                                                                                                                                                    16:00
+                                                                                                                                                                                                                                                        17:00
+                                                                                                                                                                                                                                                        18:00
+                                                                                                                                                                                                                                                        19:00
+                                                                                                                                                                                                                                                        20:00
+                                                                                                                                                                                                                                                        21:00
+                                                                            
+                                .
+2023-05-31 21:38:33,823 - INFO - Locate time menu.
+2023-05-31 21:38:33,836 - INFO - Time menu located.
+2023-05-31 21:38:33,906 - INFO - Locate and click desired ending time.
+2023-05-31 21:38:33,970 - INFO - Locate update button.
+2023-05-31 21:38:44,401 - ERROR - Error occurred while updating reservation. Stacktrace:
+2023-05-31 21:38:44,407 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 179, in update_reservation
+    update_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'btn btn-success save update btnEdit')))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\support\wait.py", line 95, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x01168893+48451]
+	(No symbol) [0x010FB8A1]
+	(No symbol) [0x01005058]
+	(No symbol) [0x01030467]
+	(No symbol) [0x0103069B]
+	(No symbol) [0x0105DD92]
+	(No symbol) [0x0104A304]
+	(No symbol) [0x0105C482]
+	(No symbol) [0x0104A0B6]
+	(No symbol) [0x01027E08]
+	(No symbol) [0x01028F2D]
+	GetHandleVerifier [0x013C8E3A+2540266]
+	GetHandleVerifier [0x01408959+2801161]
+	GetHandleVerifier [0x0140295C+2776588]
+	GetHandleVerifier [0x011F2280+612144]
+	(No symbol) [0x01104F6C]
+	(No symbol) [0x011011D8]
+	(No symbol) [0x011012BB]
+	(No symbol) [0x010F4857]
+	BaseThreadInitThunk [0x76F87D59+25]
+	RtlInitializeExceptionChain [0x7713B74B+107]
+	RtlClearBits [0x7713B6CF+191]
+
+
+2023-05-31 21:38:44,413 - INFO - Quit driver.
+2023-05-31 21:38:50,525 - INFO - Next job scheduled at: None
+2023-05-31 21:38:50,526 - ERROR - Unhandled exception occurred. Stacktrace:
+2023-05-31 21:38:50,528 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 247, in <module>
+    schedule_and_run_jobs()
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 239, in schedule_and_run_jobs
+    sleep_duration = get_seconds_until_next_job()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 229, in get_seconds_until_next_job
+    return (schedule.next_run() - datetime.now()).total_seconds()
+            ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'datetime.datetime'
+
+2023-05-31 21:42:40,242 - INFO - Wait for the next hour - 100 seconds.
+2023-05-31 21:42:40,257 - INFO - Initialize WebDriver.
+2023-05-31 21:42:40,257 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 21:42:41,510 - INFO - WebDriver initialized.
+2023-05-31 21:42:41,511 - INFO - Authenticate user.
+2023-05-31 21:42:43,026 - INFO - Successfully logged in.
+2023-05-31 21:42:43,027 - INFO - User authenticated.
+2023-05-31 21:42:43,027 - INFO - Wait for the next hour.
+2023-05-31 21:42:43,027 - INFO - Desired hour: 21:00.
+2023-05-31 21:42:43,028 - INFO - Navigate to reservation page: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804.
+2023-05-31 21:42:43,624 - INFO - Navigated to reservation page. Current URL: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804
+2023-05-31 21:42:43,624 - INFO - Check the current ending time of the reservation.
+2023-05-31 21:42:43,661 - INFO - Current end time:                                                                                                                                                                                                                 09:00
+                                                                                                                                                                                                                                                        10:00
+                                                                                                                                                                                                                                                        11:00
+                                                                                                                                                                                                                                                        12:00
+                                                                                                                                                                                                                                                        13:00
+                                                                                                                                                                                                                                                        14:00
+                                                                                                                                                                                                                                                        15:00
+                                                                                                                                                                                                                                                                                                                                                                                                    16:00
+                                                                                                                                                                                                                                                        17:00
+                                                                                                                                                                                                                                                        18:00
+                                                                                                                                                                                                                                                        19:00
+                                                                                                                                                                                                                                                        20:00
+                                                                                                                                                                                                                                                        21:00
+                                                                            
+                                .
+2023-05-31 21:42:43,665 - INFO - Locate time menu.
+2023-05-31 21:42:43,676 - INFO - Time menu located.
+2023-05-31 21:42:43,738 - INFO - Locate and click desired ending time.
+2023-05-31 21:42:43,789 - INFO - Locate update button.
+2023-05-31 21:42:43,885 - INFO - Update button located.
+2023-05-31 21:42:43,933 - INFO - Quit driver.
+2023-05-31 21:42:50,052 - INFO - Next job scheduled at: None
+2023-05-31 21:42:50,053 - ERROR - Unhandled exception occurred. Stacktrace:
+2023-05-31 21:42:50,056 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 242, in <module>
+    schedule_and_run_jobs()
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 234, in schedule_and_run_jobs
+    sleep_duration = get_seconds_until_next_job()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script.py", line 224, in get_seconds_until_next_job
+    return (schedule.next_run() - datetime.now()).total_seconds()
+            ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'datetime.datetime'
+
+2023-05-31 21:54:34,337 - INFO - Wait for the next hour - 100 seconds.
+2023-05-31 21:54:34,337 - INFO - Initialize WebDriver.
+2023-05-31 21:54:34,337 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-31 21:54:35,586 - INFO - WebDriver initialized.
+2023-05-31 21:54:35,586 - INFO - Authenticate user.
+2023-05-31 21:54:40,013 - INFO - Successfully logged in.
+2023-05-31 21:54:40,014 - INFO - User authenticated.
+2023-05-31 21:54:40,014 - INFO - Wait for the next hour.
+2023-05-31 21:54:40,014 - INFO - Desired hour: 21:00.
+2023-05-31 21:54:40,166 - INFO - Navigate to reservation page: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804.
+2023-05-31 21:54:40,804 - INFO - Navigated to reservation page. Current URL: https://schedule.tau.ac.il/scilib/Web/reservation.php?rn=647744d8ce4f6394698804
+2023-05-31 21:54:40,949 - INFO - Locate time menu.
+2023-05-31 21:54:40,965 - INFO - Time menu located.
+2023-05-31 21:54:41,155 - INFO - Locate and click desired ending time.
+2023-05-31 21:54:41,344 - INFO - Locate update button.
+2023-05-31 21:54:41,390 - INFO - Update button located.
+2023-05-31 21:54:41,720 - INFO - Quit driver.
+2023-05-31 21:54:47,980 - ERROR - Unhandled exception occurred. Stacktrace:
+2023-05-31 21:54:47,982 - ERROR - Traceback (most recent call last):
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script debug.py", line 239, in <module>
+    schedule_and_run_jobs()
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script debug.py", line 231, in schedule_and_run_jobs
+    sleep_duration = get_seconds_until_next_job()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\Documents\GitHub\library_autopilot\script debug.py", line 222, in get_seconds_until_next_job
+    return (schedule.next_run() - datetime.now()).total_seconds()
+            ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'datetime.datetime'
+
